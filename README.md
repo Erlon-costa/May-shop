@@ -1,2 +1,4 @@
 # May-shop
-Faça sua vendas e compras 100% rápido e fácil 
+git clone https://github.com/Erlon-costa/Maio-compra.git
+cd Maio-compra
+
